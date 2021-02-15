@@ -194,8 +194,8 @@ The webapp is 100% responsive and it includes basic animations realised with CSS
 
 ## Technologies
 
-The technologies I've used for this project are HTML5, SASS, Bootstrap, FontAwesome,
-JavaScript, Jquery, Python Django, SQL Based Database.
+The technologies I've used for this project are HTML5, SASS, Bootstrap,
+JavaScript, Jquery, Python Django, SQL Based Database (sqlite3).
 
 ## Future Development
 
